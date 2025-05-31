@@ -4,7 +4,7 @@
 
 ## About
 
-This project is meant for the first unity lab session in the Simulation and simulation languages course at the Faculty of Organizational Sciences (A mandatory 4th year course for the students taking the information systems and technologies module). During the session, students must follow along in order to create this project from scratch, only using the assets listed [here.](https://drive.google.com/drive/folders/1N91WfR5c02qbYvAO14ldX0Nnw1eMumWx?usp=drive_link).
+This project is meant for the first unity lab session in the Simulation and simulation languages course at the Faculty of Organizational Sciences (A mandatory 4th year course for the students taking the information systems and technologies module). During the session, students must follow along in order to create this project from scratch, only using the assets listed [here.](https://docs.google.com/document/d/1QlQ0I9C9wkpZunJx2ZW7yxkc5tXIaavxX8OYoWEGEXI/edit?usp=drive_link).
 The name bird run might seem a bit nonsensical, however the project is an endless runner akin to temple run with a bird instead of a human.
 A simple project allows the students to ease into the basic concepts of unity such as **gameobjects, components, transform, input system, collisions, scripting...**
 
